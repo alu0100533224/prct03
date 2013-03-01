@@ -1,6 +1,5 @@
 \documentclass[a4paper, 10pt]{letter}
 \usepackage[utf8]{inputenc}
-\usepackage[spanish]{babel}
 \begin{document}
  si simplemente se desea escribir texto normal en LaTeX,
  sin complicadas f\'ormulas matem\'aticas o efectos especiales
