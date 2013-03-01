@@ -46,10 +46,10 @@
     \bibitem{lam:86}
      Lamport, Leslie.
      TLA in pictures.
-     \emph{IEEE transactions on Software Engineering},
+     \emph{IEEE Transactions on Software Engineering},
      21(9), 768-775.
      (1995)
   \end{thebibliography}
- \end{thebibliography}
+ \bi
 
 \end{document}
